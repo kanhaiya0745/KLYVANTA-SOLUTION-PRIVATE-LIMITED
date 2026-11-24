@@ -1,0 +1,4 @@
+node_modules/
+.env
+backend/data/enquiries.jsonl
+.DS_Store
